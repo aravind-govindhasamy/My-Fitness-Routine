@@ -15,6 +15,19 @@ A classic and effective 3-day split routine designed for home with **2 Dumbbells
 
 ---
 
+## **Warm-Up Routine (5-10 Minutes)**
+
+**Focus:** Increase heart rate and lubricate joints.
+
+| Exercise | Duration/Reps | Image Reference |
+| :--- | :--- | :--- |
+| **1. Jumping Jacks** | 2 mins | ![Jumping Jacks](assets/images/jumping_jacks.jpg) |
+| **2. Arm Circles** | 1 min (30s each way) | ![Arm Circles](assets/images/arm_circles.jpg) |
+| **3. Cat-Cow Stretch** | 1 min | ![Cat-Cow](assets/images/cat_cow.jpg) |
+| **4. Bodyweight Squats** | 15 reps | (See Day 3 for image) |
+
+---
+
 ## **Day 1: Push Day (Chest, Triceps, Shoulders)**
 
 **Focus:** Pressing movements for upper body strength and size.
@@ -59,9 +72,22 @@ A classic and effective 3-day split routine designed for home with **2 Dumbbells
 
 ---
 
+## **Cool-Down Routine (5-10 Minutes)**
+
+**Focus:** Lower heart rate and improve flexibility.
+
+| Exercise | Duration | Image Reference |
+| :--- | :--- | :--- |
+| **1. Child's Pose** | 1 min | ![Child's Pose](assets/images/childs_pose.jpg) |
+| **2. Cobra Stretch** | 1 min | ![Cobra Stretch](assets/images/cobra_stretch.jpg) |
+| **3. Hamstring Stretch** | 45 sec per leg | - |
+| **4. Quad Stretch** | 45 sec per leg | - |
+
+---
+
 ## **Important Notes**
 
-*   **Warm-Up:** Always do 5-10 minutes of light cardio (jumping jacks, high knees) and dynamic stretches before starting.
+*   **Warm-Up:** Follow the detailed Warm-Up Routine above before starting.
 *   **Form Over Weight:** Focus on perfect technique before increasing the weight.
 *   **Progressive Overload:** Try to add a little more weight or do one more rep each week.
-*   **Cool Down:** Stretch the muscles you worked after each session.
+*   **Cool Down:** Follow the detailed Cool-Down Routine above after each session.
