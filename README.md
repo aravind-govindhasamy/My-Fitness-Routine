@@ -80,8 +80,8 @@ A classic and effective 3-day split routine designed for home with **2 Dumbbells
 | :--- | :--- | :--- |
 | **1. Child's Pose** | 1 min | ![Child's Pose](assets/images/childs_pose.jpg) |
 | **2. Cobra Stretch** | 1 min | ![Cobra Stretch](assets/images/cobra_stretch.jpg) |
-| **3. Hamstring Stretch** | 45 sec per leg | - |
-| **4. Quad Stretch** | 45 sec per leg | - |
+| **3. Hamstring Stretch** | 45 sec per leg | ![Hamstring Stretch](assets/images/hamstring_stretch.jpg) |
+| **4. Quad Stretch** | 45 sec per leg | ![Quad Stretch](assets/images/quad_stretch.jpg) |
 
 ---
 
