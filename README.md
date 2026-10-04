@@ -21,10 +21,18 @@ A classic and effective 3-day split routine designed for home with **2 Dumbbells
 
 | Exercise | Duration/Reps | Image Reference |
 | :--- | :--- | :--- |
-| **1. Jumping Jacks** | 2 mins | ![Jumping Jacks](assets/images/jumping_jacks.jpg) |
+| **1. Neck Rotations** | 1 min (30s each way) | ![Neck Rotations](assets/images/neck_rotations.jpg) |
 | **2. Arm Circles** | 1 min (30s each way) | ![Arm Circles](assets/images/arm_circles.jpg) |
-| **3. Cat-Cow Stretch** | 1 min | ![Cat-Cow](assets/images/cat_cow.jpg) |
-| **4. Bodyweight Squats** | 15 reps | (See Day 3 for image) |
+| **3. Jumping Jacks** | 2 mins | ![Jumping Jacks](assets/images/jumping_jacks.jpg) |
+| **4. High Knees** | 1 min | ![High Knees](assets/images/high_knees.jpg) |
+| **5. Arm Swings** | 1 min | ![Arm Swings](assets/images/arm_swings.jpg) |
+| **6. Shoulder Stretch** | 30 sec per side | ![Shoulder Stretch](assets/images/shoulder_stretch.jpg) |
+| **7. Windmills** | 10-12 reps per side | ![Windmills](assets/images/windmills.jpg) |
+| **8. Shoulder Dislocations** | 10-15 reps | ![Shoulder Dislocations](assets/images/shoulder_dislocations.jpg) |
+| **9. Leg Swings** | 15 reps per leg | ![Leg Swings](assets/images/leg_swings.jpg) |
+| **10. Cat-Cow Stretch** | 1 min | ![Cat-Cow](assets/images/cat_cow.jpg) |
+| **11. Cobra Stretch** | 1 min | ![Cobra Stretch](assets/images/cobra_stretch.jpg) |
+| **12. Bodyweight Squats** | 15 reps | (See Day 3 for image) |
 
 ---
 
